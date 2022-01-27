@@ -8,6 +8,6 @@
 ![ほげ](figure_hashiru.png)
 ![ほげ](medical_mask_front_view.png)
 ![ほげ](medical_vaccine.png)
-![ほげ](figure_hashiru.png)
+![ほげ](medical_syoudoku_alcohol.png)
   
 [戻る](index.md)
