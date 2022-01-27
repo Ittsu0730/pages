@@ -15,7 +15,7 @@
 
   
 
-[操作説明](https://github.com/) 
+[操作説明](https://github.com/page2.md) 
 
 [アイテム説明](https://github.com/) 
 
