@@ -7,7 +7,7 @@
   
 ![ほげ](figure_hashiru.png)
 ![ほげ](medical_mask_front_view.png)
-![ほげ](figure_hashiru.png)
+![ほげ](medical_vaccine.png)
 ![ほげ](figure_hashiru.png)
   
 [戻る](index.md)
