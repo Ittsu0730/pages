@@ -17,6 +17,6 @@
 
 [操作説明](page1.md) 
 
-[アイテム説明](https://github.com/) 
+[アイテム説明](page2.md) 
 
  
