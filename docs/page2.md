@@ -9,5 +9,7 @@
 ![ほげ](medical_mask_front_view.png)
 ![ほげ](medical_vaccine.png)
 ![ほげ](medical_syoudoku_alcohol.png)
+![ほげ](virus_corona.png)
+![ほげ](virus_corona2.png)
   
 [戻る](index.md)
